@@ -10,9 +10,13 @@ Gerald lebt mit einer starken körperlichen Behinderung und einer Hörschädigun
 -Kopf
 
 -Augen
+
 -Non-Verbal
+
 -Wahrnehmung von Klängen
+
 -Mund,Lippen, Saugen,Pusten
+
 -große Zehe links
 
 ## Wunsch
