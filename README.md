@@ -28,9 +28,11 @@ Gerald kann durch die Steuerung mithilfe der Kameramaus seinen Computer bedienen
 
 ## Verwendete Komponenten:
 - Asterics Runtime Environment(ARE)
+
 Das Asterics Environment erlaubt es dem Asterics Grid,auf OpenHab zuzugreifen, um die Umgebungssteuerung zu übernehmen.
 
 - Asterics Grid
+
 Dient zur Umgebungssteuerung
 Ein visuelles Bedienpult ermöglicht den Zugriff auf die Bereiche:
 - Licht an/aus
