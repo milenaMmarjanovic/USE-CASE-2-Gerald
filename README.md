@@ -1,12 +1,14 @@
 # Use Case - Klient Gerald
 
-## Aufgabenstellung: 
+## Aufgabenstellung 
 Gerald lebt mit einer starken körperlichen Behinderung und einer Hörschädigung, die ihm eine gewisse Pflegebedürftigkeit aufbürdet. Trotzdem möchte er gerne ein Stück Autonomie in seinem Leben zurückgewinnen, indem er seine Umgebung selbstständig steuern kann. Dazu zählen beispielsweise das Licht in seiner Wohnung, die Jalousien oder auch Musik hören sowie (E-Mail schreiben).
 
 
-## Vorhandene Funktionen:
+## Vorhandene Funktionen
 -rechter Arm leicht heben/senken (keine Handfunktion)
+
 -Kopf
+
 -Augen
 -Non-Verbal
 -Wahrnehmung von Klängen
