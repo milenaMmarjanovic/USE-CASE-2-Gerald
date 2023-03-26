@@ -81,8 +81,11 @@ Ein personalisiertes Asterics -Grid kann Gerald über ein visuelles Bedieninpult
 Mit einem Rechtsklick auf das leere Feld habe ich zum bereits bestehenden Grid navigiert.
 
 
+
 ![Navigation zum readio](https://user-images.githubusercontent.com/119931993/227804687-a97b7746-9f54-4c71-b50c-d9aaf09f098c.png)
 
+
+Man wählt eins aus und drückt auf ok.
 
 
 ![image](https://user-images.githubusercontent.com/119931993/227795614-9a1d5389-ed34-40a7-9db1-e7b879f3ea3c.png)
@@ -106,5 +109,6 @@ Küchen Jalousien hoch, runter (Rollershutter, UP, DOWN, 40): Kueche_Jalousien
 Nachdem man diese Einstellungen vorgenommen hat erscheinen die in der ACS in Properties unter item 1,item 2 usw.
 
 
-## Video Link zur Umsetzung der HCI :https://we.tl/t-4NuFd4KOHQ
+### Video 
+Link zur Umsetzung der HCI :https://we.tl/t-4NuFd4KOHQ
 
