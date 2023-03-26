@@ -53,7 +53,7 @@ Die Plattform  dient als zentraler Hub, und ermöglicht die Steuerung der Gerät
 - Runterladen von den für die Aufgabe benötigten Programme laut Anleitung auf Moodle : Asterics Grid, Asterics Configuration Suite und ARE sowie OpenHab.
 
 ##  Durchführung 
-### 1.ARE und ACS
+### ARE und ACS
 Mein erster Schritt war es für die Webcam-Steuerung ein ARE-Modell zu bauen. Im Suchfeld findet man die dafür benötigten Components und verbindet diese.
 Man öffnet das ARE und connected diese anschließend drückt man den Button "Start Model".
 
@@ -71,7 +71,7 @@ Man öffnet das ARE und connected diese anschließend drückt man den Button "St
 ARE ermöglicht uns Befehle vom Asterics Grid an die verarbeitenden Endstellen ( hier:OpenHab Server).Es ist die Schnittstelle zwischen Nutzer und dem verarbeitenden Programm.
 
 
-### 2.Asterics Grid 
+### Asterics Grid 
 Ein personalisiertes Asterics -Grid kann Gerald über ein visuelles Bedieninpult mit Bildern die Lichter ein- und ausschalten, Jalousien rauf und runter fahren sowie bei 40% lassen. Zur Unterhaltung kann er zum WebRadio wechseln und dort zu unterschiedlichen Sendern wechseln.Die Sprachassistentin wird ebenso aktiv beim aktivieren eines Feldes gesteuert durch die Webcam. 
 
 
