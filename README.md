@@ -47,7 +47,7 @@ Die Plattform  dient als zentraler Hub, und ermöglicht die Steuerung der Gerät
  - Kamera Steuerung
  
   Wie die Steuerung funktioniert findet man unter dem Link:https://www.asterics.eu/customize/model/Model-Creation.html#camera-mouse-simple
-  
+  Wenn man länger auf ein Feld bleibt wird die Aktion ausgeführt und die Sprachassistentin ist ebenso zu hören.Zusätzlich habe ich beim Radio die Möglichkeit die Lautstärke zu ändern.
  
 ## Vorbereitung
 - Runterladen von den für die Aufgabe benötigten Programme laut Anleitung auf Moodle : Asterics Grid, Asterics Configuration Suite und ARE sowie OpenHab.
@@ -72,7 +72,7 @@ ARE ermöglicht uns Befehle vom Asterics Grid an die verarbeitenden Endstellen (
 
 
 ### 2.Asterics Grid 
-Ein personalisiertes Asterics -Grid kann Gerald über ein visuelles Bedieninpult mit Bildern die Lichter ein- und ausschalten, Jalousien rauf und runter fahren sowie bei 40% lassen. Zur Unterhaltung kann er zum WebRadio wechseln und dort zu unterschiedlichen Sendern wechseln.
+Ein personalisiertes Asterics -Grid kann Gerald über ein visuelles Bedieninpult mit Bildern die Lichter ein- und ausschalten, Jalousien rauf und runter fahren sowie bei 40% lassen. Zur Unterhaltung kann er zum WebRadio wechseln und dort zu unterschiedlichen Sendern wechseln.Die Sprachassistentin wird ebenso aktiv beim aktivieren eines Feldes gesteuert durch die Webcam. 
 
 
 ![Asterics Grid](https://user-images.githubusercontent.com/119931993/227795141-904cad2d-e6a6-4fcb-b9fb-c5f33458d231.png)
