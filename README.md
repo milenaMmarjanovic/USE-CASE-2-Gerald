@@ -109,6 +109,5 @@ Küchen Jalousien hoch, runter (Rollershutter, UP, DOWN, 40): Kueche_Jalousien
 Nachdem man diese Einstellungen vorgenommen hat erscheinen die in der ACS in Properties unter item 1,item 2 usw.
 
 
-### Video 
-Link zur Umsetzung der HCI :https://we.tl/t-4NuFd4KOHQ
+### Video :siehe Workspace
 
