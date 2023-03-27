@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" modelName="C:\Users\Milena Marjanovic\Downloads\kameraatlab.acs_2023_3_27_12_20" version="20130320">
+  <components>
+    <component id="TextArea.1" type_id="asterics.TextArea">
+      <description>GUI component, which displays text.</description>
+      <ports>
+        <inputPort portTypeID="setText">
+          <properties />
+        </inputPort>
+        <inputPort portTypeID="appendText">
+          <properties />
+        </inputPort>
+        <outputPort portTypeID="text">
+          <properties />
+        </outputPort>
+      </ports>
+      <properties>
+        <property name="caption" value="Text Display" />
+        <property name="default" value="" />
+        <property name="editable" value="false" />
+        <property name="fontSize" value="14" />
+        <property name="textColor" value="0" />
+        <property name="backgroundColor" value="11" />
+        <property name="displayGUI" value="true" />
+      </properties>
+      <layout>
+        <posX>17</posX>
+        <posY>36</posY>
+      </layout>
+      <gui>
+        <posX>0</posX>
+        <posY>444</posY>
+        <width>3000</width>
+        <height>2000</height>
+      </gui>
+    </component>
+    <component id="Slider.1" type_id="asterics.Slider">
+      <description>a slider GUI element which provides the slider value at an output port</description>
+      <ports>
+        <inputPort portTypeID="setValue">
+          <properties />
+        </inputPort>
+        <inputPort portTypeID="in">
+          <properties />
+        </inputPort>
+        <outputPort portTypeID="value">
+          <properties />
+        </outputPort>
+        <outputPort portTypeID="out">
+          <properties />
+        </outputPort>
+      </ports>
+      <properties>
+        <property name="min" value="0" />
+        <property name="max" value="100" />
+        <property name="default" value="50" />
+        <property name="gain" value="0.01" />
+        <property name="autosend" value="true" />
+        <property name="caption" value="my slider" />
+        <property name="majorTickSpacing" value="20" />
+        <property name="minorTickSpacing" value="5" />
+        <property name="alignment" value="0" />
+        <property name="fontSize" value="14" />
+        <property name="storeValue" value="false" />
+        <property name="displayGUI" value="true" />
+      </properties>
+      <layout>
+        <posX>147</posX>
+        <posY>39</posY>
+      </layout>
+      <gui>
+        <posX>0</posX>
+        <posY>444</posY>
+        <width>4000</width>
+        <height>1000</height>
+      </gui>
+    </component>
+    <component id="StringDispatcher.1" type_id="asterics.StringDispatcher">
+      <description>Send text from chosen slot</description>
+      <ports>
+        <outputPort portTypeID="output">
+          <properties />
+        </outputPort>
+        <inputPort portTypeID="slotDispatch">
+          <properties />
+        </inputPort>
+      </ports>
+      <properties>
+        <property name="delay" value="300" />
+        <property name="slot1" value="" />
+        <property name="slot2" value="" />
+        <property name="slot3" value="" />
+        <property name="slot4" value="" />
+        <property name="slot5" value="" />
+        <property name="slot6" value="" />
+        <property name="slot7" value="" />
+        <property name="slot8" value="" />
+        <property name="slot9" value="" />
+        <property name="slot10" value="" />
+        <property name="slot11" value="" />
+        <property name="slot12" value="" />
+        <property name="slot13" value="" />
+        <property name="slot14" value="" />
+        <property name="slot15" value="" />
+        <property name="slot16" value="" />
+        <property name="slot17" value="" />
+        <property name="slot18" value="" />
+        <property name="slot19" value="" />
+        <property name="slot20" value="" />
+      </properties>
+      <layout>
+        <posX>138</posX>
+        <posY>320</posY>
+      </layout>
+    </component>
+    <component id="openHAB.1" type_id="asterics.openHAB">
+      <description>OpenHAB Binding - Interfacing to the openHAB home automation suite</description>
+      <ports>
+        <inputPort portTypeID="item1in">
+          <properties />
+        </inputPort>
+        <inputPort portTypeID="item2in">
+          <properties />
+        </inputPort>
+        <inputPort portTypeID="item3in">
+          <properties />
+        </inputPort>
+        <inputPort portTypeID="item4in">
+          <properties />
+        </inputPort>
+        <inputPort portTypeID="item5in">
+          <properties />
+        </inputPort>
+        <inputPort portTypeID="item6in">
+          <properties />
+        </inputPort>
+        <inputPort portTypeID="actionString">
+          <properties />
+        </inputPort>
+        <outputPort portTypeID="item1">
+          <properties />
+        </outputPort>
+        <outputPort portTypeID="item2">
+          <properties />
+        </outputPort>
+        <outputPort portTypeID="item3">
+          <properties />
+        </outputPort>
+        <outputPort portTypeID="item4">
+          <properties />
+        </outputPort>
+        <outputPort portTypeID="item5">
+          <properties />
+        </outputPort>
+        <outputPort portTypeID="item6">
+          <properties />
+        </outputPort>
+      </ports>
+      <properties>
+        <property name="updaterate" value="1000" />
+        <property name="hostname" value="openhabian" />
+        <property name="port" value="8080" />
+        <property name="protocol" value="0" />
+        <property name="lazyCertificates" value="false" />
+        <property name="username" value="" />
+        <property name="password" value="" />
+        <property name="item1in" value="" />
+        <property name="item2in" value="" />
+        <property name="item3in" value="" />
+        <property name="item4in" value="" />
+        <property name="item5in" value="" />
+        <property name="item6in" value="" />
+        <property name="item1out" value="" />
+        <property name="item2out" value="" />
+        <property name="item3out" value="" />
+        <property name="item4out" value="" />
+        <property name="item5out" value="" />
+        <property name="item6out" value="" />
+        <property name="item1event" value="" />
+        <property name="item2event" value="" />
+        <property name="item3event" value="" />
+        <property name="item4event" value="" />
+        <property name="item5event" value="" />
+        <property name="item6event" value="" />
+      </properties>
+      <layout>
+        <posX>286</posX>
+        <posY>126</posY>
+      </layout>
+    </component>
+    <component id="EventVisualizer.1" type_id="asterics.EventVisualizer">
+      <description>Simple Event Visualizer</description>
+      <ports />
+      <properties>
+        <property name="displayGUI" value="true" />
+      </properties>
+      <layout>
+        <posX>440</posX>
+        <posY>264</posY>
+      </layout>
+      <gui>
+        <posX>0</posX>
+        <posY>444</posY>
+        <width>3000</width>
+        <height>1000</height>
+      </gui>
+    </component>
+  </components>
+  <channels>
+    <channel id="binding.0">
+      <source>
+        <component id="openHAB.1" />
+        <port id="item1" />
+      </source>
+      <target>
+        <component id="Slider.1" />
+        <port id="setValue" />
+      </target>
+    </channel>
+    <channel id="binding.1">
+      <source>
+        <component id="Slider.1" />
+        <port id="value" />
+      </source>
+      <target>
+        <component id="openHAB.1" />
+        <port id="item1in" />
+      </target>
+    </channel>
+    <channel id="binding.2">
+      <source>
+        <component id="StringDispatcher.1" />
+        <port id="output" />
+      </source>
+      <target>
+        <component id="openHAB.1" />
+        <port id="actionString" />
+      </target>
+    </channel>
+  </channels>
+  <modelGUI>
+    <Decoration>true</Decoration>
+    <Fullscreen>false</Fullscreen>
+    <AlwaysOnTop>false</AlwaysOnTop>
+    <ToSystemTray>false</ToSystemTray>
+    <ShopControlPanel>true</ShopControlPanel>
+    <AREGUIWindow>
+      <posX>0</posX>
+      <posY>0</posY>
+      <width>9000</width>
+      <height>5000</height>
+    </AREGUIWindow>
+  </modelGUI>
+</model>
