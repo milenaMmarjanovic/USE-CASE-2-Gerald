@@ -65,14 +65,14 @@ Man öffnet das ARE und connected diese anschließend drückt man den Button "St
 ![Screenshot ARE und ACS-min](https://user-images.githubusercontent.com/119931993/227783977-2da875d2-8cb2-4cc9-afd7-f930010e60b1.png)
 
 
-### Damit man im Anschluss Problemlos das Asterics Grid bedienen kann muss man in ACS den richtigen Hostname eingeben (FH:openhabian,port 8080) des weiteren muss ACS und ARE im Hintergrund laufen.
+### Damit man im Anschluss Problemlos das Asterics Grid bedienen kann muss man in ACS den richtigen Hostname eingeben (FH:openhabian,port 8080) des weiteren muss ACS und ARE im Hintergrund laufen.Man gibt auch im Webbroser openhabian 8080 ein um zur Website zu gelangen.
 
 
 ARE ermöglicht uns Befehle vom Asterics Grid an die verarbeitenden Endstellen ( hier:OpenHab Server).Es ist die Schnittstelle zwischen Nutzer und dem verarbeitenden Programm.
 
 
 ### Asterics Grid 
-Ein personalisiertes Asterics -Grid kann Gerald über ein visuelles Bedieninpult mit Bildern die Lichter ein- und ausschalten, Jalousien rauf und runter fahren sowie bei 40% lassen. Zur Unterhaltung kann er zum WebRadio wechseln und dort zu unterschiedlichen Sendern wechseln.Die Sprachassistentin wird ebenso aktiv beim aktivieren eines Feldes gesteuert durch die Webcam. 
+Ein personalisiertes Asterics -Grid kann Gerald über ein visuelles Bedieninpult mit Bildern die Lichter ein- und ausschalten, Jalousien rauf und runter fahren sowie bei 40% lassen. Zur Unterhaltung kann er zum Webradio wechseln und dort zu unterschiedlichen Sendern wechseln.Die Sprachassistentin wird ebenso aktiv beim aktivieren eines Feldes gesteuert durch die Webcam. 
 
 
 ![Asterics Grid](https://user-images.githubusercontent.com/119931993/227795141-904cad2d-e6a6-4fcb-b9fb-c5f33458d231.png)
@@ -109,5 +109,5 @@ Küchen Jalousien hoch, runter (Rollershutter, UP, DOWN, 40): Kueche_Jalousien
 Nachdem man diese Einstellungen vorgenommen hat erscheinen die in der ACS in Properties unter item 1,item 2 usw.
 
 
-### Video :siehe Workspace
+### Video zu HCI:siehe Workspace
 
